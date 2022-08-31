@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="label_pokemon_name">Bulbasaur #001</string>
+    <string name="label_height">Altura</string>
+    <string name="label_weight">Peso</string>
+    <string name="label_type">Tipo</string>
+    <string name="label_weakness">Fraquesas</string>
+    <string name="label_grass">Grama</string>
+    <string name="label_poison">Veneno</string>
+    <string name="label_ice">Gelo</string>
+    <string name="label_fire">Fogo</string>
+    <string name="label_flying">Voador</string>
+    <string name="label_psychic">Psíquico</string>
+</resources>
